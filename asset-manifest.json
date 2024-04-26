@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/suitesail/static/css/main.15bd6369.css",
+    "main.js": "/suitesail/static/js/main.80fc1a59.js",
+    "static/js/787.79cd9e57.chunk.js": "/suitesail/static/js/787.79cd9e57.chunk.js",
+    "static/media/fp3.jpg": "/suitesail/static/media/fp3.b5d8ded29632033068f2.jpg",
+    "static/media/fp4.jpg": "/suitesail/static/media/fp4.09e12e3ebe006f5fce5a.jpg",
+    "static/media/cottages.jpg": "/suitesail/static/media/cottages.b20665a066ae141cb105.jpg",
+    "static/media/resorts.jpg": "/suitesail/static/media/resorts.6325fca412d32d208e30.jpg",
+    "static/media/hotels.jpg": "/suitesail/static/media/hotels.eb1007242e78b607266f.jpg",
+    "static/media/apartment.jpg": "/suitesail/static/media/apartment.564e0789ad95c08cc2e3.jpg",
+    "static/media/beachhouses.jpg": "/suitesail/static/media/beachhouses.3286e10192de99881831.jpg",
+    "static/media/fp5.jpg": "/suitesail/static/media/fp5.7786b4333a7316b67c68.jpg",
+    "static/media/bandipur.jpg": "/suitesail/static/media/bandipur.f97d38576fc795fa477f.jpg",
+    "static/media/fp1.jpg": "/suitesail/static/media/fp1.d04bcf71b9b016039643.jpg",
+    "static/media/fp2.jpg": "/suitesail/static/media/fp2.83dfc925deaccdcdc4d7.jpg",
+    "static/media/kathmandu.jpg": "/suitesail/static/media/kathmandu.9a487e981cb1258fe48b.jpg",
+    "static/media/villas.jpg": "/suitesail/static/media/villas.3f7d5b6b92fdc1c9528b.jpg",
+    "static/media/pokhara.jpg": "/suitesail/static/media/pokhara.e6504241c2f282f2b707.jpg",
+    "static/media/HeroBanner4_small.jpg": "/suitesail/static/media/HeroBanner4_small.07919164df521e71aea8.jpg",
+    "static/media/suitesail.png": "/suitesail/static/media/suitesail.1991a79630c7bd9eece8.png",
+    "index.html": "/suitesail/index.html",
+    "main.15bd6369.css.map": "/suitesail/static/css/main.15bd6369.css.map",
+    "main.80fc1a59.js.map": "/suitesail/static/js/main.80fc1a59.js.map",
+    "787.79cd9e57.chunk.js.map": "/suitesail/static/js/787.79cd9e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15bd6369.css",
+    "static/js/main.80fc1a59.js"
+  ]
+}
